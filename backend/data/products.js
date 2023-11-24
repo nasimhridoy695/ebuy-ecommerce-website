@@ -1,6 +1,5 @@
 const products = [
     {
-        _id: '1',
         name: 'Nike Slim Shirt authentic quality fabric',
         category: 'Shirts',
         image: '/images/airpods.jpg',
@@ -12,7 +11,6 @@ const products = [
         description: 'high quality product',
     },
     {
-        _id: '2',
         name: 'Adidas Fit Shirt',
         category: 'Shirts',
         image: '/images/alexa.jpg',
@@ -24,7 +22,7 @@ const products = [
         description: 'high quality product',
     },
     {
-        _id: '3',
+    
         name: 'Lacoste Free Shirt',
         category: 'Shirts',
         image: '/images/camera.jpg',
@@ -36,7 +34,7 @@ const products = [
         description: 'high quality product',
     },
     {
-        _id: '4',
+       
         name: 'Nike Slim Pant',
         category: 'Pants',
         image: '/images/mouse.jpg',
@@ -48,7 +46,7 @@ const products = [
         description: 'high quality product',
     },
     {
-        _id: '5',
+      
         name: 'Puma Slim Pant',
         category: 'Pants',
         image: '/images/phone.jpg',
@@ -60,7 +58,7 @@ const products = [
         description: 'high quality product',
     },
     {
-        _id: '6',
+       
         name: 'Adidas Fit Pant',
         category: 'Pants',
         image: '/images/playstation.jpg',
